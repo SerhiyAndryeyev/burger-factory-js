@@ -1,2 +1,2 @@
 # burger-factory-js
-Junior Front-End Developer Test Assignment (Opigno)
+Junior Front-End Developer Test Assignment for Opigno
